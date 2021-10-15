@@ -38,8 +38,6 @@ public class Fraction {
     @Test
     public void testdenominateur(){
         assertNotEquals(this.denominateur,0);
-
     }
-
 }
 
